@@ -4,13 +4,13 @@ In this project you will create a 2D occupancy grid and 3D octomap from a simula
 <table style="width:100%">
   <tr>
     <th><p>
-           <img src="img/3d_maps.png"
+           <img src="img/3d_maps.PNG"
             alt="3D map" width="400" height="200"></a>
            <br>3D Map
         </p>
     </th>
     <th><p>
-           <img src="img/grapgh.png"
+           <img src="img/grapgh.PNG"
             alt="graphmap" width="200" height="200"></a>
            <br>Graph Map
       </p>
@@ -18,13 +18,13 @@ In this project you will create a 2D occupancy grid and 3D octomap from a simula
   </tr>
   <tr>
     <th><p>
-           <img src="img/occupancy_grid.png"
+           <img src="img/occupancy_grid.PNG"
             alt="occupancy grid" width="400" height="200"></a>
            <br>Occupancy Grid
       </p>
     </th>
     <th><p>
-           <img src="img/matching_closure.png"
+           <img src="img/matching_closure.PNG"
             alt="features" width="200" height="200"></a>
            <br>Detected Features
       </p>
