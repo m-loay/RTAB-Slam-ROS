@@ -191,8 +191,7 @@
     <parent link="chassis"/>
     <child link="camera" />
   </joint>
-
-  <!-- Add RGB-D camera -->
+ <!-- Add RGB-D camera -->
   <joint name="camera_optical_joint" type="fixed">
     <origin xyz="0 0 0" rpy="-1.5707 0 -1.5707"/>
     <parent link="camera"/>
@@ -202,11 +201,9 @@
   <link name="camera_link_optical">
   </link>
 
-  <gazebo reference="camera">
+    <gazebo reference="camera">
       <material>Gazebo/White</material>
   </gazebo>
-
-
   <!-- HOKUYO LIDAR -->
 
   <joint type="fixed" name="hukoyo_joint">
