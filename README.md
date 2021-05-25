@@ -10,7 +10,7 @@ In this project you will create a 2D occupancy grid and 3D octomap from a simula
         </p>
     </th>
     <th><p>
-           <img src="img/grapgh.PNG"
+           <img src="img/graph_map.PNG"
             alt="graphmap" width="200" height="200"></a>
            <br>Graph Map
       </p>
@@ -24,7 +24,7 @@ In this project you will create a 2D occupancy grid and 3D octomap from a simula
       </p>
     </th>
     <th><p>
-           <img src="img/matching_closure.PNG"
+           <img src="img/loop_closure.PNG"
             alt="features" width="200" height="200"></a>
            <br>Detected Features
       </p>
